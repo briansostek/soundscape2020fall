@@ -6,9 +6,17 @@ For my soundscape project, I want to recreate the sounds of a boardwalk at the b
 
 ## In-depth story:
 
-The car pulls up, stops, the door opens and closes. I ask my friend john if i can have some sunscreen. *squirt sunscreen noise* We walk towards the boardwalk. *steps on concrete turn to steps on wood* We talk about where we should get some ice cream as the night comes upon us. Go up to cashier and ask for a chocolate peanut butter cone. In the middle of talking to the cashier, friend bill says he has to go to the bathroom. We check in bathroom for him and he isnt there. We ask people outside the bathroom if they have seen a kid wearing a blue baseball cap. They say they think they saw him go towards Manco & Manco, the pizza place, but they say they saw him go through the back entrance. I tell john that bill said he had a friend who worked at manco and manco that he wanted to visit, so I figured it could be possible.
+The car pulls up, stops, the door opens and closes. I ask my friend john if i can have some sunscreen. *squirt sunscreen noise* We walk towards the boardwalk. *steps on concrete turn to steps on wood* 
 
-We knock on the door, and a new voice enters the scene, and he has a blue
+Welcome to ocean city. we'd like to remind you to wear a face covering at all times and stay six feet away from strangers whenever possible.
+
+We talk about where we should get some ice cream as the night comes upon us. Go up to cashier and ask for a chocolate peanut butter cone. In the middle of talking to the cashier, friend bill says he has to go to the bathroom. We check in bathroom for him and he isnt there. We ask people outside the bathroom if they have seen a kid wearing a blue baseball cap. They say they think they saw him go towards Manco & Manco, the pizza place, but they say they saw him go through the back entrance. I tell john that bill said he had a friend who worked at manco and manco that he wanted to visit, so I figured it could be possible.
+
+We knock on the door, and a new voice enters the scene, and he has a blue cap on. Damn, wrong guy.
+
+Time passes by, maybe a couple hours
+
+I think its time to go home, maybe he's back at the house. Well, let's just check the amusement park to be sure. We find Bill getting off of the ferris wheel. He says he was stuck on the ferris wheel after a malfunction occurred.
 
 ## Here's my proposed asset list:
 * Waves gently crashing (not too loud since boardwalk is distant from the shoreline) (constant)

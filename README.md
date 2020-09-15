@@ -1,1 +1,1 @@
-This is the future site of Brian's soundscape narrative!
+I hope you enjoy my soundscape narrative about a short trip to the beach!
