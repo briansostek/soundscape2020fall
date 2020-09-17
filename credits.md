@@ -14,4 +14,7 @@
 * Bathroom- my sounds
 * Sandwalk- https://freesound.org/people/DasDeer/sounds/161815/ src/sandwalk
 * Crickets- https://freesound.org/people/FreethinkerAnon/sounds/129678/ src/crickets
+* Voice actor- Brian Sostek as Main character
+* Voice actor- Juan Robayo as Juan
+* Voice actress- Meg Kavanaugh as Ice cream worker
 
